@@ -16,3 +16,6 @@
    ```bash
    git clone https://github.com/ando7555/LiveFootballScoreboard.git
    cd LiveFootballScoreboard
+2. How to run test?
+  ```bash
+mvn test
